@@ -1,0 +1,8 @@
+{
+  "name": "Switch keyboard layout in gnome switcher",
+  "description": "Switch to first/last/previously used keyboard layout",
+  "uuid": "switch-keyboard-layout@maksmartyn",
+  "shell-version": [
+    "42"
+  ]
+}
